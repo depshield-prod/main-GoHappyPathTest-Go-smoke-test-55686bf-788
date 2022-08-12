@@ -1,2 +1,3 @@
 # main-GoHappyPathTest-Go-smoke-test-55686bf-788
-the description
+
+![depshield](https://depshield.sonatype.org/badges/depshield-prod/main-GoHappyPathTest-Go-smoke-test-55686bf-788/depshield.svg)
